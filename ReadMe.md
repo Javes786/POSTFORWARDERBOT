@@ -1,4 +1,5 @@
-# Channel Auto-Post Bot
+# POST FORWARDER BOT
+
 **MADE BY - @GoDMRUNaL
 **SETUP BY - @AMAANTGK
 
@@ -12,14 +13,15 @@ This bot can send all new messages from one channel, directly to another channel
 > `TO_CHANNEL` - The ID of the channel to which the posts are to be sent. (Use @chnlidbot to get it.)   
 
 ## DEPLOY ON HEROKU
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Javes786/ChannelAuToPost)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Javes786/POSTFORWARDERBOT)
   
 
 ## Usage
 Add the bot to both channels with admin permission, and thats it!
 All new messages will be auto-posted!!
 
-Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
+Visit TO [AMAAN](https://t.me/AMAANTGK) for help.
+
 
 ## Credits
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
