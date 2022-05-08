@@ -23,5 +23,6 @@ All new messages will be auto-posted!!
 Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
 ## Credits
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
-> [Mrunal](https://github.com/Godmrunal), me.   
+> [Mrunal](https://github.com/Godmrunal), Code Owner.   
 > [@ettan_fan](https://t.me/ettan_fan), for the whole idea.   
+> [AMAAN THE GAMER KING](https://t.me/AMAANTGK), Me.
