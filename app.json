@@ -1,0 +1,41 @@
+{
+    "name": "AutoPostBot",
+    "description": "Simple code for a telegram autopost bot in Telethon.",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "atgk"
+    ],
+    "repository": "https://github.com/Javes786/ChannelAutoPost",
+    "website": "https://t.me/Criminal786",
+    "success_url": "https://t.me/destroyxSupport",
+    "env": {
+        "API_HASH": {
+            "description": "Your API HASH from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+        },
+        "FROM_CHANNEL": {
+            "description": "Required for bot owner details.",
+            "value": ""
+        },
+        "TO_CHANNEL": {
+            "description": " Add ur bot in a private group and fill this var with group id no.",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
