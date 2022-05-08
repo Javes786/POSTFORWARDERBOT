@@ -15,7 +15,8 @@ This bot can send all new messages from one channel, directly to another channel
 <summary>Heroku/Kintohub/Zeet</summary>
 <br>
 Add the above values to the environment vars and deploy the bot.
-</details>
+# DEPLOY ON HEROKU
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Javes786/ChannelAutoPost)
 <details>
 <summary>Local Deploys</summary>
 <br>
