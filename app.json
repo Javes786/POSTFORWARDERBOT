@@ -1,6 +1,6 @@
 {
-    "name": "AutoPostBot",
-    "description": "Simple code for a telegram autopost bot in Telethon.",
+    "name": "POST FORWARDER BOT",
+    "description": "Simple code for telegram to forward new posts written in Telethon.",
     "logo": "",
     "keywords": [
         "telegram",
@@ -8,7 +8,7 @@
         "telegram-bot",
         "atgk"
     ],
-    "repository": "https://github.com/Javes786/ChannelAutoPost",
+    "repository": "https://github.com/Javes786/POSTFORWARDERBOT",
     "website": "https://t.me/Criminal786",
     "success_url": "https://t.me/destroyxSupport",
     "env": {
@@ -25,11 +25,11 @@
             "value": ""
         },
         "FROM_CHANNEL": {
-            "description": "Required for bot owner details.",
+            "description": "Required for post details. and bot should be admin there.",
             "value": ""
         },
         "TO_CHANNEL": {
-            "description": " Add ur bot in a private group and fill this var with group id no.",
+            "description": "Required for posting new posts and bot should be admin there also.",
             "value": ""
         }
     },
